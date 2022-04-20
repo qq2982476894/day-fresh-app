@@ -1,11 +1,14 @@
 <template>
   <div id="app">
-      <div class="test">123</div>
+      <van-button type="primary">主要按钮</van-button>
   </div>
 </template>
 
 <style lang="less">
-body{
-    margin: 0;
+
+.test{
+    width: 750px;
+    height: 100px;
+    background-color: aquamarine;
 }
 </style>
